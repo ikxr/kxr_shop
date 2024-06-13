@@ -1,7 +1,7 @@
 fx_version 'adamant'
 game 'gta5'
 
-author 'gyros'
+author 'kxr'
 
 description 'Sklep z itemami i bronią'
 
